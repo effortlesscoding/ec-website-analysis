@@ -1,0 +1,14 @@
+@import '../mixins';
+
+.content {
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
+
+@include tablet-up {
+  .content {
+    width: 900px;
+    margin: 0 auto;
+  }
+}
