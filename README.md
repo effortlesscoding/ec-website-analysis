@@ -1,3 +1,22 @@
+## About "Website Analysis"
+
+[![Watch the video](https://drive.google.com/uc?id=15Llz7lzQYj2kx13TRcoaRdzfnTJ1dI1K)](https://www.youtube.com/watch?v=0cqZXSVgEDY&feature=youtu.be)
+
+https://www.youtube.com/watch?v=0cqZXSVgEDY&feature=youtu.be
+
+
+
+This is a basic react application that showcases:
+- Typescript usage
+- API integration
+- React classes and elements
+- React class lifecycles
+- Localized CSS modules
+- Layout with CSS
+- Usage of material UI
+
+## Bootstrapped with Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
