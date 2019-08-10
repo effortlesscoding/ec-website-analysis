@@ -1,4 +1,4 @@
-## About "Website Analysis"
+## A React Application that Does a Website Analysis Using Google APIs
 
 [![Watch the video](https://drive.google.com/uc?id=15Llz7lzQYj2kx13TRcoaRdzfnTJ1dI1K)](https://www.youtube.com/watch?v=0cqZXSVgEDY&feature=youtu.be)
 
@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=0cqZXSVgEDY&feature=youtu.be
 
 
 
-This is a basic react application that showcases:
+This is a basic React application that showcases:
 - Typescript usage
 - API integration
 - React classes and elements
